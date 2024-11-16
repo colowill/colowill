@@ -10,7 +10,7 @@
 </div>
 
 <a href="#"><img width="25%" height="auto" src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif" height = "100px"/></a>
-## About me
+## 🇪🇪 About me
   
 - 🔎 Actively looking for **Internships**
 
