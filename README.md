@@ -10,17 +10,17 @@
 </div>
 
 <a href="#"><img width="25%" height="auto" src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif" height = "100px"/></a>
-# About me
+## About me
   
-### - 🔎 Actively looking for **Internships**
+- 🔎 Actively looking for **Internships**
 
-### - 🌱 Currently working on my **[AI Cover Letter Generator](https://github.com/colowill/AI-Cover-Letter-Generator)**
+- 🌱 Currently working on my **[AI Cover Letter Generator](https://github.com/colowill/AI-Cover-Letter-Generator)**
 
-### - ⚔️ Aswell as sharpening my **Data Structures and Algorithms** skills
+- ⚔️ Aswell as sharpening my **Data Structures and Algorithms** skills
 
-### - 👾 I’m looking to collaborate on **Open Source Projects** and **Indie Game Developments**
+- 👾 I’m looking to collaborate on **Open Source Projects** and **Indie Game Developments**
 
-### - 💜 Passionate about technology, music, film, video games, basketball, and my art
+- 💜 Passionate about technology, music, film, video games, basketball, and my art
 
 <br>
 
@@ -43,13 +43,13 @@
 
 <br>
 
-# 💼 Work Experiences
+## 💼 Work Experiences
 
-### - 🎧 Currently a DJ at **[WXYC 89.3 FM](https://wxyc.org/)**
+- 🎧 Currently a DJ at **[WXYC 89.3 FM](https://wxyc.org/)**
   
-### - 🤵🏻‍♂️ Former Server at **[Chapel Hill Country Club](https://www.chapelhillcountryclub.com/)**
+- 🤵🏻‍♂️ Former Server at **[Chapel Hill Country Club](https://www.chapelhillcountryclub.com/)**
   
-### - 📠 Former Cashier across the companies of **[PDQ Chicken](https://www.eatpdq.com/)**, **[Hardee's](https://www.hardees.com/)**, and **[Food Lion](https://foodlion.com/)**
+- 📠 Former Cashier across the companies of **[PDQ Chicken](https://www.eatpdq.com/)**, **[Hardee's](https://www.hardees.com/)**, and **[Food Lion](https://foodlion.com/)**
 
 <br>
 
