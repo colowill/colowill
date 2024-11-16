@@ -24,7 +24,7 @@
 
 <br>
 
-# 🚀 Language & Tools
+## 🚀 Language & Tools
 <p align="left"
   <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/72/000000/java-coffee-cup-logo.png"/> </a>
   <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://img.icons8.com/?size=72&id=40670&format=png&color=000000"/>
@@ -53,7 +53,7 @@
 
 <br>
 
-# 🔗 Connect with me @
+## 🔗 Connect with me @
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/will-minor/"><img src="https://img.icons8.com/fluent/72/000000/linkedin.png"/></a>
