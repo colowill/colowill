@@ -1,4 +1,7 @@
-## Hi there 👋
+<a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Will/h1>
+<h3 align="center">I'm a passionate CS Student at UNC!</h3>
 
 <!--
 **colowill/colowill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
