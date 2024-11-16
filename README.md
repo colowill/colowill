@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm Will</h1>
-<h3 align="center">A passionate CS Student at UNC!</h3>
+<h3 align="center">A passionate CS Student at UNC!</h3><br>
 
 <div align="center">
   <a href="#"><img width="50%" height="auto" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" height="120px"/></a>
 </div>
 
-<a href="#"><img width="25%" height="auto" src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif" height = "100px"/></a> 
+<a href="#"><img width="25%" height="auto" src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif" height = "100px"/></a>
 ## About me
 
 - 🔎 I'm actively looking for **Internships**
@@ -22,6 +22,8 @@
 
 - 💜 Passion about technology, music, film, video games, basketball, and my art
 
+<br>
+
 ## 🚀 Language & Tools
 <p align="left"
   <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/72/000000/java-coffee-cup-logo.png"/> </a>
@@ -33,12 +35,13 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/72/000000/css3.png"/> </a> 
 </p>
 
-
 <p align="left">
     <a href="[![GitHub Streak](https://streak-stats.demolab.com?user=colowill&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)">
         <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=colowill&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
     </a>
 </p>
+
+<br>
 
 ## 💼 Work Experiences
 
@@ -46,8 +49,17 @@
   
 - 🤵🏻‍♂️ Former Server at **[Chapel Hill Country Club](https://www.chapelhillcountryclub.com/)**
   
-- 📠 Former Cashier across companies like **[PDQ Chicken](https://www.eatpdq.com/)**, **[Hardee's](https://www.hardees.com/)**, and **[Food Lion](https://foodlion.com/)**
+- 📠 Former Cashier across companies of **[PDQ Chicken](https://www.eatpdq.com/)**, **[Hardee's](https://www.hardees.com/)**, and **[Food Lion](https://foodlion.com/)**
 
+<br>
+
+## Connect with me @
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/will-minor/"><img src="https://img.icons8.com/fluent/72/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/wm.mp4/"><img src="https://img.icons8.com/fluent/72/000000/instagram-new.png"/></a>
+
+</p>
 
 <!--
 **colowill/colowill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
