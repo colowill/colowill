@@ -18,7 +18,7 @@
 
 - ⚔️ Aswell as sharpening my **Data Structures and Algorithms** skills
 
-- 👾 I’m looking to collaborate on **Open Source Projects** and **Indie Game Developments**
+- 👾 Looking to collaborate on **Open Source Projects** and **Indie Game Developments**
 
 - 💜 Passionate about technology, music, film, video games, basketball, and my art
 
