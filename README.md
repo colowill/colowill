@@ -49,11 +49,11 @@
   
 - 🤵🏻‍♂️ Former Server at **[Chapel Hill Country Club](https://www.chapelhillcountryclub.com/)**
   
-- 📠 Former Cashier across companies of **[PDQ Chicken](https://www.eatpdq.com/)**, **[Hardee's](https://www.hardees.com/)**, and **[Food Lion](https://foodlion.com/)**
+- 📠 Former Cashier across the companies of **[PDQ Chicken](https://www.eatpdq.com/)**, **[Hardee's](https://www.hardees.com/)**, and **[Food Lion](https://foodlion.com/)**
 
 <br>
 
-## Connect with me @
+## 🔗 Connect with me @
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/will-minor/"><img src="https://img.icons8.com/fluent/72/000000/linkedin.png"/></a>
