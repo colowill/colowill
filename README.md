@@ -10,21 +10,21 @@
 </div>
 
 <a href="#"><img width="25%" height="auto" src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif" height = "100px"/></a>
-## About me
+# About me
+  
+### - 🔎 Actively looking for **Internships**
 
-- 🔎 I'm actively looking for **Internships**
+### - 🌱 Currently working on my **[AI Cover Letter Generator](https://github.com/colowill/AI-Cover-Letter-Generator)**
 
-- 🌱 I’m currently working on my **[AI Cover Letter Generator](https://github.com/colowill/AI-Cover-Letter-Generator)**
+### - ⚔️ Aswell as sharpening my **Data Structures and Algorithms** skills
 
-- ⚔️ Aswell as sharpening my **Data Structures and Algorithms** skills
+### - 👾 I’m looking to collaborate on **Open Source Projects** and **Indie Game Developments**
 
-- 👾 I’m looking to collaborate on **Open Source Projects** and **Indie Game Developments**
-
-- 💜 Passion about technology, music, film, video games, basketball, and my art
+### - 💜 Passionate about technology, music, film, video games, basketball, and my art
 
 <br>
 
-## 🚀 Language & Tools
+# 🚀 Language & Tools
 <p align="left"
   <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/72/000000/java-coffee-cup-logo.png"/> </a>
   <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://img.icons8.com/?size=72&id=40670&format=png&color=000000"/>
@@ -43,17 +43,17 @@
 
 <br>
 
-## 💼 Work Experiences
+# 💼 Work Experiences
 
-- 🎧 Currently a DJ at **[WXYC 89.3 FM](https://wxyc.org/)**
+### - 🎧 Currently a DJ at **[WXYC 89.3 FM](https://wxyc.org/)**
   
-- 🤵🏻‍♂️ Former Server at **[Chapel Hill Country Club](https://www.chapelhillcountryclub.com/)**
+### - 🤵🏻‍♂️ Former Server at **[Chapel Hill Country Club](https://www.chapelhillcountryclub.com/)**
   
-- 📠 Former Cashier across the companies of **[PDQ Chicken](https://www.eatpdq.com/)**, **[Hardee's](https://www.hardees.com/)**, and **[Food Lion](https://foodlion.com/)**
+### - 📠 Former Cashier across the companies of **[PDQ Chicken](https://www.eatpdq.com/)**, **[Hardee's](https://www.hardees.com/)**, and **[Food Lion](https://foodlion.com/)**
 
 <br>
 
-## 🔗 Connect with me @
+# 🔗 Connect with me @
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/will-minor/"><img src="https://img.icons8.com/fluent/72/000000/linkedin.png"/></a>
