@@ -20,6 +20,8 @@
 
 - 👾 I’m looking to collaborate on **Open Source Projects** and **Indie Game Developments**
 
+- 💜 Passion about technology, music, film, video games, basketball, and my art
+
 ## 🚀 Language & Tools
 <p align="left"
   <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/72/000000/java-coffee-cup-logo.png"/> </a>
@@ -38,8 +40,13 @@
     </a>
 </p>
 
-## 💼 Work Experience
+## 💼 Work Experiences
 
+- 🎧 Currently a DJ at **[WXYC 89.3 FM](https://wxyc.org/)**
+  
+- 🤵🏻‍♂️ Former Server at **[Chapel Hill Country Club](https://www.chapelhillcountryclub.com/)**
+  
+- 📠 Former Cashier across companies like **[PDQ Chicken](https://www.eatpdq.com/)**, **[Hardee's](https://www.hardees.com/)**, and **[Food Lion](https://foodlion.com/)**
 
 
 <!--
