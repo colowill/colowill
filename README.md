@@ -32,11 +32,13 @@
 </p>
 
 
-<p align="center">
-    <a href="[![GitHub Streak](https://streak-stats.demolab.com/?colowill=DenverCoder1)](https://git.io/streak-stats)">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vikas Pathak's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas-Pathak-123&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+<p align="left">
+    <a href="[![GitHub Streak](https://streak-stats.demolab.com?user=colowill&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)">
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=colowill&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
     </a>
 </p>
+
+## 💼 Work Experience
 
 
 
