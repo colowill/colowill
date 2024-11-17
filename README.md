@@ -16,13 +16,12 @@
 
 - 🌱 Currently working on my **[AI Cover Letter Generator](https://github.com/colowill/AI-Cover-Letter-Generator)**
 
-- ⚔️ Aswell as sharpening my **Data Structures and Algorithms** skills
+- ⚔️ Sharpening my **Data Structures and Algorithms** skills
 
 - 👾 Looking to collaborate on **Open Source Projects** and **Indie Game Developments**
 
 - 💜 Passionate about technology, music, film, video games, basketball, and my art
 
-<br>
 
 ## 🚀 Language & Tools
 <p align="left"
@@ -41,7 +40,6 @@
     </a>
 </p>
 
-<br>
 
 ## 💼 Work Experiences
 
@@ -51,9 +49,8 @@
   
 - 📠 Former Cashier across the companies of **[PDQ Chicken](https://www.eatpdq.com/)**, **[Hardee's](https://www.hardees.com/)**, and **[Food Lion](https://foodlion.com/)**
 
-<br>
 
-## 🔗 Connect with me @
+## 🔗 Connect with me
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/will-minor/"><img src="https://img.icons8.com/fluent/72/000000/linkedin.png"/></a>
