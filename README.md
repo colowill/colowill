@@ -14,7 +14,7 @@
   
 - 🔎 Actively looking for **Internships**
 
-- 🌱 Currently working on my **[AI Cover Letter Generator](https://github.com/colowill/AI-Cover-Letter-Generator)**
+- 🌱 Currently working on **[AI Cover Letter Generator](https://github.com/colowill/AI-Cover-Letter-Generator)** and **[Gargoyle AI](https://github.com/colowill/gargoyle-ai)**
 
 - ⚔️ Sharpening my **Data Structures and Algorithms** skills
 
