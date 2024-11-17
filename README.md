@@ -53,6 +53,8 @@
 ## 🔗 Contact me
 <p align="left">
 
+<a href = "mailto:willminor64@gmail.com"><img src="https://img.icons8.com/?size=72&id=qyRpAggnV0zH&format=png&color=000000"/></a>
+<a href = "mailto:wminor@ad.unc.edu"><img src="https://img.icons8.com/?size=72&id=13640&format=png&color=000000"/></a>
 <a href = "https://www.linkedin.com/in/will-minor/"><img src="https://img.icons8.com/fluent/72/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/wm.mp4/"><img src="https://img.icons8.com/fluent/72/000000/instagram-new.png"/></a>
 
