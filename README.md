@@ -20,7 +20,7 @@
 
 - 👾 Looking to collaborate on **Open Source Projects** and **Indie Game Developments**
 
-- 💜 Passionate about technology, music, film, video games, basketball, and my art
+- 💜 Passionate about technology, music, film, video games, basketball, and my personal artwork
 
 
 ## 🚀 Language & Tools
