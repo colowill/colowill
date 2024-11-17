@@ -50,7 +50,7 @@
 - 📠 Former Cashier across the companies of **[PDQ Chicken](https://www.eatpdq.com/)**, **[Hardee's](https://www.hardees.com/)**, and **[Food Lion](https://foodlion.com/)**
 
 
-## 🔗 Connect with me
+## 🔗 Contact me
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/will-minor/"><img src="https://img.icons8.com/fluent/72/000000/linkedin.png"/></a>
