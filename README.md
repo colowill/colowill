@@ -12,7 +12,7 @@
 <a href="#"><img width="25%" height="auto" src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif" height = "100px"/></a>
 ## 🇪🇪 About me
   
-- 🔎 Actively looking for **Internships**
+- 🔎 Actively looking for **Summer Internships**
 
 - 🌱 Currently working on **[AI Cover Letter Generator](https://github.com/colowill/AI-Cover-Letter-Generator)** and **[Gargoyle AI](https://github.com/colowill/gargoyle-ai)**
 
