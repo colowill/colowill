@@ -34,11 +34,13 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/72/000000/css3.png"/> </a> 
 </p>
 
+<!--
 <p align="left">
     <a href="[![GitHub Streak](https://streak-stats.demolab.com?user=colowill&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)">
         <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=colowill&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
     </a>
 </p>
+-->
 
 
 ## 💼 Work Experiences
