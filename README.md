@@ -45,7 +45,7 @@
 
 ## 💼 Work Experiences
 
-- 🎧 Currently a DJ at **[WXYC 89.3 FM](https://wxyc.org/)**
+- 💻 Currently a Software Engineering Intern at **[BAE Electronic Systems](https://www.baesystems.com/en-us/who-we-are/electronic-systems)**
   
 - 🤵🏻‍♂️ Former Server at **[Chapel Hill Country Club](https://www.chapelhillcountryclub.com/)**
   
