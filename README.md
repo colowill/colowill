@@ -10,7 +10,7 @@
 </div>
 
 <a href="#"><img width="25%" height="auto" src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif" height = "100px"/></a>
-## 🇪🇪 About me
+## 🌙 About me
   
 - 🔎 Actively looking for **Internships**
 
@@ -20,7 +20,7 @@
 
 - 👾 Looking to collaborate on **Open Source Projects** and **Indie Game Developments**
 
-- 💜 Passionate about technology, music, film, video games, basketball, and my personal artwork
+- 💜 Passionate about technology, music, film, video games, and my art
 
 
 ## 🚀 Language & Tools
@@ -45,7 +45,7 @@
 
 ## 💼 Work Experiences
 
-- 💻 Currently a Software Engineering Intern at **[BAE Electronic Systems](https://www.baesystems.com/en-us/who-we-are/electronic-systems)**
+- 💻 Former Software Engineering Intern at **[BAE Electronic Systems](https://www.baesystems.com/en-us/who-we-are/electronic-systems)**
   
 - 🤵🏻‍♂️ Former Server at **[Chapel Hill Country Club](https://www.chapelhillcountryclub.com/)**
   
