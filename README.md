@@ -14,17 +14,16 @@
   
 - 🔎 Actively looking for **Internships**
 
-- 🌱 Currently working on **[AI Cover Letter Generator](https://github.com/colowill/AI-Cover-Letter-Generator)** and **[Gargoyle AI](https://github.com/colowill/gargoyle-ai)**
-
 - ⚔️ Sharpening my **Data Structures and Algorithms** skills
 
 - 👾 Looking to collaborate on **Open Source Projects** and **Indie Game Developments**
 
-- 💜 Passionate about technology, music, film, video games, and my art
+- 💜 Passionate about technology, music production, film, video games, and my art
 
 
 ## 🚀 Language & Tools
 <p align="left"
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/72/000000/python.png" alt="Python"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/72/000000/java-coffee-cup-logo.png"/> </a>
   <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://img.icons8.com/?size=72&id=40670&format=png&color=000000"/>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/72/000000/react-native.png"/> </a>
@@ -46,6 +45,8 @@
 ## 💼 Work Experiences
 
 - 💻 Former Software Engineering Intern at **[BAE Electronic Systems](https://www.baesystems.com/en-us/who-we-are/electronic-systems)**
+
+- 🌐 Former Technical Intern at **[Stony Hill Advisors M & A](https://www.stonyhilladvisors.com/)**
   
 - 🤵🏻‍♂️ Former Server at **[Chapel Hill Country Club](https://www.chapelhillcountryclub.com/)**
   
